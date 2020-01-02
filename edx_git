@@ -26,3 +26,10 @@ of a file
 Say this line, which I've edited over the hub and also edited locally
 and haven't pushed the changes
 
+so when we will pull this kind of file we will see 
+a message stating there is a conflict
+We can edit the conflict by opening the file locally 
+and deleting the unwanted lines
+
+After that we can add and commit the files
+and can push it 
