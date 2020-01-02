@@ -32,4 +32,9 @@ We can edit the conflict by opening the file locally
 and deleting the unwanted lines
 
 After that we can add and commit the files
-and can push it 
+and can push it
+
+We can see the history of the commit using
+git log command
+
+
