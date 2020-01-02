@@ -2,6 +2,15 @@ This is a new approach to git hub through the edx course
 
 So I've made a new repo over github
 cloned it to my pc using
-
 git clone file address
 
+After I've edited the code use
+git add file name
+
+So after adding a file and editing it use
+git commit -m "message"
+
+We can use git status to see the current status
+
+After commiting a file, to save changes to git hub use
+git push
