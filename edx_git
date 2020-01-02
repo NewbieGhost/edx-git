@@ -37,4 +37,7 @@ and can push it
 We can see the history of the commit using
 git log command
 
+We can change to the desired version by using
+git reset --hard the commit hash
+
 
