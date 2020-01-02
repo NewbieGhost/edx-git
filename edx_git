@@ -14,3 +14,8 @@ We can use git status to see the current status
 
 After commiting a file, to save changes to git hub use
 git push
+
+We can also download the changes that are made to the
+file over the remote repo, to do this use 
+git pull
+
