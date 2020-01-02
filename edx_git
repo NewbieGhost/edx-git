@@ -40,4 +40,5 @@ git log command
 We can change to the desired version by using
 git reset --hard the commit hash
 
+So it works
 
