@@ -19,3 +19,8 @@ We can also download the changes that are made to the
 file over the remote repo, to do this use 
 git pull
 
+Conflicts
+If I've made a change to the same line
+of a file
+
+Say this line
